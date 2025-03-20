@@ -15,9 +15,9 @@ A fully responsive, interactive, and visually appealing animated carousel compon
 
 
  🖥️ Git Repository:
-🔗 [View the Live Demo](https://github.com/Anees44/Create-Craousel-Component)
+🔗 [View Repository Pages](https://github.com/Anees44/Create-Craousel-Component)
 
-🖥️ Kive Demo:
-🔗 [Live Demol](https://create-craousel-component.vercel.app/) 
+🖥️ Live Demo:
+🔗 [Vercel Deployl](https://create-craousel-component.vercel.app/) 
 
 
